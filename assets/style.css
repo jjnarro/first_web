@@ -1,19 +1,19 @@
 :root {
 	color-scheme: light;
 	font-family: "Helvetica Neue", Helvetica, sans-serif;
-	color: #183760;
+	color: #53535a;
 	background: #fff;
 	font-synthesis: none;
 	text-rendering: optimizeLegibility;
-	--ink: #183760;
-	--muted: #67778b;
-	--green: #2f6ca5;
-	--green-dark: #15375e;
-	--line: #d8e0e8;
+	--ink: #00175a;
+	--muted: #53535a;
+	--green: #66a9e2;
+	--green-dark: #006fcf;
+	--line: #d9d9d6;
 	--paper: #fff;
-	--coral: #71839a;
-	--blue: #2f6ca5;
-	--light-blue: #dceaf7;
+	--coral: #006fcf;
+	--blue: #006fcf;
+	--light-blue: #66a9e2;
 }
 
 * {
